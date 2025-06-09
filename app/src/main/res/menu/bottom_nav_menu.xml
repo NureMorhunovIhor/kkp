@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_messages"
+        android:icon="@drawable/baseline_message_24"
+        android:title="@string/messages" />
+
+    <item
+        android:id="@+id/nav_my_animals"
+        android:icon="@drawable/baseline_pets_24"
+        android:title="@string/my_animals" />
+
+    <item
+        android:id="@+id/nav_qr_scanner"
+        android:icon="@drawable/baseline_qr_code_scanner_24"
+        android:title="@string/scan_qr" />
+
+    <item
+        android:id="@+id/nav_report"
+        android:icon="@drawable/baseline_search_24"
+        android:title="@string/report" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/account" />
+</menu>

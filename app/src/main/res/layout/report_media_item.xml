@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="100dp">
+
+    <ImageView
+        android:id="@+id/mediaImageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:layout_margin="4dp"
+        android:contentDescription="@string/media"/>
+
+    <ImageButton
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/baseline_close_24"
+        android:id="@+id/removeMediaButton"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/remove_media"/>
+</FrameLayout>

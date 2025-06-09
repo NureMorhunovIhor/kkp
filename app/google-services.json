@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567116949017",
+    "project_id": "animalrescue-12d55",
+    "storage_bucket": "animalrescue-12d55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567116949017:android:dd315378d5c9f3edf0ec88",
+        "android_client_info": {
+          "package_name": "com.kkp.nure.animalrescue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcB1-RMXuzsipPjK5eWeepjrsh5gUmmc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
